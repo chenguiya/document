@@ -16,6 +16,9 @@
     $ git commit -m “commit message” #提交所有更新过的文件
     $ git commit --amend #修改最后一次提交
 
+> - **提交、拉取、推送**
+    $ git pull -v "origin"   拉取远程文件到本地
+
 > - **查看提交历史**
 
     $ git log #查看提交历史
