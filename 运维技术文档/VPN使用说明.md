@@ -1,86 +1,86 @@
-## VPN ¿Í»§¶ËÊ¹ÓÃËµÃ÷
+## VPN å®¢æˆ·ç«¯ä½¿ç”¨è¯´æ˜
 
 ------------
 
 
 
-#### VPNÖ÷ÒªÓÃÍ¾
+#### VPNä¸»è¦ç”¨é€”
 
-1. Ô¶³ÌÁ¬µ½¹«Ë¾ÄÚÍø½øĞĞ¿ª·¢¡£
-2. ¹ÊÕÏ´¦ÀíÓëÎ¬»¤¡£
+1. è¿œç¨‹è¿åˆ°å…¬å¸å†…ç½‘è¿›è¡Œå¼€å‘ã€‚
+2. æ•…éšœå¤„ç†ä¸ç»´æŠ¤ã€‚
 
-#### vpn ¿Í»§¶Ë°²×°
+#### vpn å®¢æˆ·ç«¯å®‰è£…
 
-µ½¹²Ïí·şÎñÆ÷ÏÂÔØ¹¤¾ß£¬²¢°²×°£º
+åˆ°å…±äº«æœåŠ¡å™¨ä¸‹è½½å·¥å…·ï¼Œå¹¶å®‰è£…ï¼š
 
-    \\192.168.2.110\¹«¹²ÎÄ¼ş¼Ğ\tools\ÍøÂç¹¤¾ß\SSLVPNClient-v2.0.10.exe
+    \\192.168.2.110\å…¬å…±æ–‡ä»¶å¤¹\tools\ç½‘ç»œå·¥å…·\SSLVPNClient-v2.0.10.exe
 
-#### ÅäÖÃÁ¬½Óµ½VPN·şÎñÆ÷
+#### é…ç½®è¿æ¥åˆ°VPNæœåŠ¡å™¨
 
-#### Ò»¡¢Á¬½Óµ½·şÎñÆ÷ĞèÒªÁ½¸öÈÏÖ¤£º
--  ÃÜÔ¿Ö¤Êé£¬ÓÉ·şÎñ¶Ë°ä²¼²»Í¬µÄ¿Í»§¶ËÖ¤Êé¡£ÓÉÔËÎ¬ÈËÔ±Ìá¹©¡£ÇëÎğ¶ªÊ§»òĞ¹Â¶¡£
--  ÓÃ»§µÄÃÜÂë£¬¼´LDAPÓÃ»§ÃÜÂë£¬Óëgitlab¡¢¹²Ïí·şÎñµÈÍ¨ÓÃ¡£
+#### ä¸€ã€è¿æ¥åˆ°æœåŠ¡å™¨éœ€è¦ä¸¤ä¸ªè®¤è¯ï¼š
+-  å¯†é’¥è¯ä¹¦ï¼Œç”±æœåŠ¡ç«¯é¢å¸ƒä¸åŒçš„å®¢æˆ·ç«¯è¯ä¹¦ã€‚ç”±è¿ç»´äººå‘˜æä¾›ã€‚è¯·å‹¿ä¸¢å¤±æˆ–æ³„éœ²ã€‚
+-  ç”¨æˆ·çš„å¯†ç ï¼Œå³LDAPç”¨æˆ·å¯†ç ï¼Œä¸gitlabã€å…±äº«æœåŠ¡ç­‰é€šç”¨ã€‚
 
-#### ¶ş¡¢²½Öè£º
+#### äºŒã€æ­¥éª¤ï¼š
 
-1¡¢ Æô¶¯¿Í»§¶Ë³ÌĞò£¬Ë«»÷ÈÎÎñÀ¸µÄÍ¼Ê¾£¬ĞÂ½¨Á¬½Ó£º
+1ã€ å¯åŠ¨å®¢æˆ·ç«¯ç¨‹åºï¼ŒåŒå‡»ä»»åŠ¡æ çš„å›¾ç¤ºï¼Œæ–°å»ºè¿æ¥ï¼š
 
-![](https://gitlab.usport.cc/technology/document/raw/master/images/vpn_20151106105656.jpg)
+![](https://github.com/chenguiya/document/blob/master/images/vpn_20151106105656.jpg)
 
-2¡¢ÏÂÒ»²½£¬ÊäÈëÅäÖÃÃû³Æ£º
+2ã€ä¸‹ä¸€æ­¥ï¼Œè¾“å…¥é…ç½®åç§°ï¼š
 
-![](https://gitlab.usport.cc/technology/document/raw/master/images/vpn_20151106105929.jpg)
+![](https://github.com/chenguiya/document/blob/master/images/vpn_20151106105929.jpg)
 
-3¡¢ ÊäÈëÌí¼ÓÔ¶³Ì·şÎñÆ÷µÄµØÖ·ºÍ¶Ë¿Ú£¬Èç£º
+3ã€ è¾“å…¥æ·»åŠ è¿œç¨‹æœåŠ¡å™¨çš„åœ°å€å’Œç«¯å£ï¼Œå¦‚ï¼š
 
-![](https://gitlab.usport.cc/technology/document/raw/master/images/vpn_20151106110147.jpg)
-
-
-![](https://gitlab.usport.cc/technology/document/raw/master/images/vpn_20151106110634.jpg)
+![](https://github.com/chenguiya/document/blob/master/images/vpn_20151106110147.jpg)
 
 
-4¡¢ÅäÖÃÑ¡Ïî£º
-
-![](https://gitlab.usport.cc/technology/document/raw/master/images/vpn_20151106110712.jpg)
+![](https://github.com/chenguiya/document/blob/master/images/vpn_20151106110634.jpg)
 
 
+4ã€é…ç½®é€‰é¡¹ï¼š
 
-![](https://gitlab.usport.cc/technology/document/raw/master/images/vpn_20151106110744.jpg)
+![](https://github.com/chenguiya/document/blob/master/images/vpn_20151106110712.jpg)
 
 
 
-
-5¡¢ ±à¼­ÅäÖÃÎÄ¼ş£¬
-
-![](https://gitlab.usport.cc/technology/document/raw/master/images/vpn_20151106110843.jpg)
-
-
-6¡¢ ¼ÇÏÂÂ·¾¶£¬Ìí¼ÓÒ»ĞĞ£ºtls-auth "ta.key" 1
-
-![](https://gitlab.usport.cc/technology/document/raw/master/images/vpn_20151106120414.jpg)
+![](https://github.com/chenguiya/document/blob/master/images/vpn_20151106110744.jpg)
 
 
 
-7¡¢ ½«¸´ÖÆÎÄ¼şµ½£º"C:\Users\ÓÃ»§Ãû\AppData\Roaming\Securepoint SSL VPN\config\5u_VPN"
 
-![](https://gitlab.usport.cc/technology/document/raw/master/images/vpn_20151106124207.jpg)
+5ã€ ç¼–è¾‘é…ç½®æ–‡ä»¶ï¼Œ
 
-8¡¢µã»÷Á¬½Ó£º
-
-![](https://gitlab.usport.cc/technology/document/raw/master/images/vpn_20151106140846.jpg)
+![](https://github.com/chenguiya/document/blob/master/images/vpn_20151106110843.jpg)
 
 
-9¡¢ÓÃ»§ÃûºÍÃÜÂë£º
+6ã€ è®°ä¸‹è·¯å¾„ï¼Œæ·»åŠ ä¸€è¡Œï¼štls-auth "ta.key" 1
 
-![](https://gitlab.usport.cc/technology/document/raw/master/images/vpn_20151106140913.jpg)
+![](https://github.com/chenguiya/document/blob/master/images/vpn_20151106120414.jpg)
 
 
-![](https://gitlab.usport.cc/technology/document/raw/master/images/vpn_20151106140933.jpg)
 
-10¡¢µã»÷Á¬½Ó
+7ã€ å°†å¤åˆ¶æ–‡ä»¶åˆ°ï¼š"C:\Users\ç”¨æˆ·å\AppData\Roaming\Securepoint SSL VPN\config\5u_VPN"
 
-![](https://gitlab.usport.cc/technology/document/raw/master/images/vpn_20151107121209.png)
+![](https://github.com/chenguiya/document/blob/master/images/vpn_20151106124207.jpg)
 
-11¡¢²âÊÔ
+8ã€ç‚¹å‡»è¿æ¥ï¼š
+
+![](https://github.com/chenguiya/document/blob/master/images/vpn_20151106140846.jpg)
+
+
+9ã€ç”¨æˆ·åå’Œå¯†ç ï¼š
+
+![](https://github.com/chenguiya/document/blob/master/images/vpn_20151106140913.jpg)
+
+
+![](https://github.com/chenguiya/document/blob/master/images/vpn_20151106140933.jpg)
+
+10ã€ç‚¹å‡»è¿æ¥
+
+![](https://github.com/chenguiya/document/blob/master/images/vpn_20151107121209.png)
+
+11ã€æµ‹è¯•
 
 ping  192.168.2.254
